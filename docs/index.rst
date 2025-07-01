@@ -3,7 +3,7 @@ How to Find Your Windows 11 Pro Product Key Easily? 🔑💻
 
 If you’re running **Windows 11 Pro**, knowing how to find your **Windows 11 Pro product key** is essential for activation, reinstallations, or troubleshooting. Whether you lost the original key or want to verify your license, this guide will walk you through the easiest and safest ways to **retrieve your Windows 11 Pro product key** without hassle. 🛠️
 
-.. image:: start.png
+.. image:: activate.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
